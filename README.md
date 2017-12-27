@@ -1,5 +1,7 @@
 # fitech - FRED app
 
+Financial app to get information from Federal Reserve's FRED API.
+
 ## Description
 
 This application fetch data from FRED's API and store it in sqlite in-memory database.
