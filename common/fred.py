@@ -76,5 +76,5 @@ class Fred(Database):
 
 		return {
 			year: round(float(sum(values)) / len(values), 2)
-			for year, values in results.iteritems()
+			for year, values in results.items()
 		}
